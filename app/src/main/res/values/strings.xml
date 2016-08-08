@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SampleJSON</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">Stock Prices</string>
+    <string name="get_data">Get Data</string>
+    <string name="stop">Stop</string>
+    <string name="title_code">Stock Code</string>
+    <string name="title_price">Stock Price</string>
+    <string name="btn1_txt">Preselected Stocks - JSON Example</string>
+    <string name="btn2_txt">Get Current Stock Prices</string>
+
+
+    
+    
+</resources>
